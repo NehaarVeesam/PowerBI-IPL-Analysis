@@ -1,5 +1,6 @@
 # PowerBI-IPL-Analysis
 IPL-Analysis using PowerBI
+![image](https://github.com/NehaarVeesam/PowerBI-IPL-Analysis/assets/107974475/b4d002ca-23fb-4065-b6d9-336b39f1a050)
 
 Power BI is a business analytics service by Microsoft that provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.
 
@@ -41,3 +42,5 @@ Using different available features on PowerBI , it is quite easy to analyse the 
 
 6.Categorize match results (e.g., by runs, wickets, tie) and analyze the distribution of wins based on result types.
 - Gain insights into teams' strengths and weaknesses in different match scenarios.
+
+
